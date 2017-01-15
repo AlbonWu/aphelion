@@ -1,2 +1,0 @@
-# aphelion
-aphelion notepad
